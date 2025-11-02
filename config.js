@@ -4,7 +4,7 @@ import {fileURLToPath} from 'url';
 import fs from 'fs'; 
 import moment from 'moment-timezone';
 
-global.botnumber = "2011xxxxxxxx" // هنا أضف رقمك
+global.botnumber = "201127562948" // هنا أضف رقمك
 
 global.owner = [
   ['2011xxxxxxxx', '☪ ISLAMIC-WHATSAPP-BOT ☪', false]
