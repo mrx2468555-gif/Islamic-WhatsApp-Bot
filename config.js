@@ -21,7 +21,7 @@ global.igfg = '♛ 𝙈𝙞𝙙𝙨𝙤𝙪𝙣𝙚 ♛'
 global.wait = '*⠿⠶ إنتظر ⠶⠿*'
 global.eror = '*خطأ في جلب البيانات*'
 global.sitfe = 'ᴡᴡᴡ.ᴛᴇᴄʜsᴏᴜɴᴇ.ᴄᴏᴍ'
-global.nomorown = '201197118528' // لتجربة البوت
+global.nomorown = '201127562948' // لتجربة البوت
 
 
 global.mods = [];
